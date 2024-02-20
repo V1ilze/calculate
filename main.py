@@ -7,6 +7,7 @@ elif sign == "-":
   res = g - x
 elif sign == "/":
   res = g / x
+    if x != 0
 elif sign == "*":
   res = g * x
 elif sign == "**":
